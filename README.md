@@ -2,7 +2,7 @@
 
 ## PDF 下载：
 
-- [2019-04-18](https://github.com/stone-zeng/latex-talk/releases/tag/2019-04-18)
+- [releases](https://github.com/boltomli/latex-talk/releases)
 
 ## 勘误
 
